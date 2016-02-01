@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\ActivitySwitcher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity1.xml",
+        "source": "D:\\ActivitySwitcher\\app\\src\\main\\res\\layout\\activity1.xml"
+    },
+    {
+        "merged": "D:\\ActivitySwitcher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity2.xml",
+        "source": "D:\\ActivitySwitcher\\app\\src\\main\\res\\layout\\activity2.xml"
+    }
+]
